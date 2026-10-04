@@ -1,0 +1,6 @@
+{
+  "name": "Tetris",
+  "description": "Тетрис оюну: 4 мамлекеттин желектери (Кыргызстан, Казакстан, Өзбекстан, Түркия), окшош желектердин дал келип өчүшү, оттуу бонустар, «Ураа!» үндөрү жана шайыр музыка.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
